@@ -10,8 +10,11 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/vcareli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vcareli&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcareli&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcareli&layout=compact&langs_count=8&theme=aura_dark"/>
 </div>
+
+<h2>Skills</h2>
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -22,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg">  
 </div>
 
-##
+<h2>Contact</h2>
 
 <div>
   <a href = "mailto:vcareli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

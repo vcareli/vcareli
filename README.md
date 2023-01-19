@@ -2,8 +2,9 @@
 
 Here are some ideas to get you started:
 
+- Student at 42 Québec (very cool).
 - 🔭 I’m currently working on nurse in HEJ.
-- 🌱 I'm currently learning C/C++, GoLang, Java and participe on piscine 42 Québec.
+- 🌱 I'm currently learning C/C++, GoLang, Java.
 - 🤔 I’m looking for help with C/C++
 - ⚡ Fun fact: I am a nurse who is migrating to the TI area, but I have participated in the IT area since the time of 🦖, BBS, Clipper, Windows 3.1 and MS-DOS.
 

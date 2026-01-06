@@ -2,10 +2,11 @@
 
 Here are some ideas to get you started:
 
-- Student at 42 Québec (very cool).
+- Student TI (very cool).
+- Career reorientation.
 - 🔭 I’m currently working on nurse in HEJ.
 - 🌱 I'm currently learning C/C++, GoLang, Java.
-- 🤔 I’m looking for help with C/C++
+- 🤔 I’m looking for help with C/C++, Java
 - ⚡ Fun fact: I am a nurse who is migrating to the TI area, but I have participated in the IT area since the time of 🦖, BBS, Clipper, Windows 3.1 and MS-DOS.
 
 <div align="center">
